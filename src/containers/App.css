@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'WebPressBold';
+font-style: normal;
+font-weight: normal;
+src: local('WebPressBold'), url('WebPressBold.woff') format('woff');
+}
+h1
+{
+	font-family: 'WebPressBold';
+	font-weight: 200;
+	color: lightblue;
+}
